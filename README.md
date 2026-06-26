@@ -59,12 +59,24 @@ The app was built entirely in R using <i>Shiny</i> as a web framework and <i>car
 ## Thesis Context
  
 This application was developed as part of my bachelor's thesis, which I **successfully** defended in June 2026 with an A grade, completing my bachelor's studies.
+
+<b>Institution:</b> Technical University of Košice, Slovakia; Faculty of Economics
+
+<details>
+ <summary>THESIS KEYWORDS</summary>
+ Preference transitivity, behavioral economics, rational decision-making, pre-test/post-test design, R Shiny application
+</details>
  
 <details>
 <summary>ABSTRACT</summary>
 The aim of this bachelor’s thesis is to examine the extent to which economic education delivered through an interactive computational tool can influence the consistency of consumer decision-making, measured by violations of preference transitivity. Transitivity is one of the fundamental axioms of rational behavior in economics, and its violation is interpreted as a deviation from the standard model of rationality. The research is based on an experimental design with a pre-test and post-test structure, in which a sample of 56 respondents was divided into an experimental group and a control group. The respondents were students of the Faculty of Economics, TUKE. The experimental group had access, between the pre-test and post-test phases, to an interactive application developed in the R programming language, focused on visualization and computation in microeconomic theory. Data were collected through a questionnaire based on choices between pairs of goods and subsequently analyzed using non-parametric statistical tests. The results show a statistically significant difference between the experimental and control groups in the change in the number of violations of preference transitivity between the pre-test and post-test. At the same time, a statistically significant change between the experimental phases was observed within the experimental group, while no such change was found in the control group. The analysis also did not identify a statistically significant effect of respondents’ gender or the highest level of parental education on changes in transitivity. The findings suggest a possible relationship between the use of an interactive educational tool and increased consistency in consumer decision-making; however, due to limitations of the experimental design, a causal relationship cannot be conclusively established. 
 </details>
 
- 
+## Notes
+
+Since my bachelor's thesis was originally written in Slovak, the application was also developed in Slovak. It has since been translated into English. If you notice any translation issues or errors, feel free to contact me via email.
+
+Also, the main focus of this project was on building a functional and useful application rather than on strict code optimization. This is partly because the project was developed within an economics program, where formal software engineering standards were not the main focus. As a result, some parts of the code may not fully follow best programming practices.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
