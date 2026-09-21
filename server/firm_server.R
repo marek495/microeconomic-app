@@ -201,7 +201,7 @@ firm_server <- function(input, output, session) {
         } else { # if it is Leontief:
           envFirm$map_F <- IsoMapGraph_LF(envFirm$param_vals, envFirm$levels_Q, input$L_end, input$L_step)
         }
-        envFirm$map_F$graf
+        envFirm$map_F$graph
       })
 
 
